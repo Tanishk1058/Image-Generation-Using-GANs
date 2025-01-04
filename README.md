@@ -1,1 +1,1 @@
-# Image-Generation-Using-GANs
+# dcgan
